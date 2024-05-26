@@ -1,0 +1,56 @@
+#fundo{
+  background-image: url("images/header.jpg"); 
+height: 150px;
+background-size: 100% 100%;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+#fundo p{
+color: white;
+font-size: 20px;
+text-align: center;
+}
+
+h3{
+font-size: 20px;
+color: black;
+}
+
+#conteiner1{
+background-color: lightgray;
+text-align: center;
+}
+#conteiner2{
+text-align: center;
+}
+
+#conteiner2 img{
+height: 150px;
+width: 100%;
+}
+#conteiner3 p{
+color: white;
+}
+#conteiner3 h3{
+color: white;
+}
+#conteiner3{
+background-color:black ;
+text-align: center;
+}
+
+#conteiner3 img{
+height: 30px;
+width: 30px;
+}
+
+p{
+font-size: 16;
+color:black ;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
